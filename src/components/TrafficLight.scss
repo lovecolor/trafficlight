@@ -1,0 +1,21 @@
+.Trafficlight{
+    .bulb{
+        border-radius: 50%;
+        width: 5rem;
+        height: 5rem;
+        opacity: .2;
+        margin: 1rem;
+    }
+    .red{
+        background-color: red;
+    }
+    .yellow{
+        background-color: yellow;
+    }
+    .green{
+        background-color: green;
+    }
+    .active{
+        opacity: 1;
+    }
+}
